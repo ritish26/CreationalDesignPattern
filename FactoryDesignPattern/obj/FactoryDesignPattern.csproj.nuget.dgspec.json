@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/FactoryDesignPattern/FactoryDesignPattern.csproj": {}
+    "/Users/ritikdhiman/CreationalDesignPattern/FactoryDesignPattern/FactoryDesignPattern.csproj": {}
   },
   "projects": {
-    "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/FactoryDesignPattern/FactoryDesignPattern.csproj": {
+    "/Users/ritikdhiman/CreationalDesignPattern/FactoryDesignPattern/FactoryDesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/FactoryDesignPattern/FactoryDesignPattern.csproj",
+        "projectUniqueName": "/Users/ritikdhiman/CreationalDesignPattern/FactoryDesignPattern/FactoryDesignPattern.csproj",
         "projectName": "FactoryDesignPattern",
-        "projectPath": "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/FactoryDesignPattern/FactoryDesignPattern.csproj",
+        "projectPath": "/Users/ritikdhiman/CreationalDesignPattern/FactoryDesignPattern/FactoryDesignPattern.csproj",
         "packagesPath": "/Users/ritikdhiman/.nuget/packages/",
-        "outputPath": "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/FactoryDesignPattern/obj/",
+        "outputPath": "/Users/ritikdhiman/CreationalDesignPattern/FactoryDesignPattern/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ritikdhiman/.nuget/NuGet/NuGet.Config"

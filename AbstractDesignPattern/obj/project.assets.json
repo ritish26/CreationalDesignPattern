@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/AbstractDesignPattern/AbstractDesignPattern.csproj",
+      "projectUniqueName": "/Users/ritikdhiman/CreationalDesignPattern/AbstractDesignPattern/AbstractDesignPattern.csproj",
       "projectName": "AbstractDesignPattern",
-      "projectPath": "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/AbstractDesignPattern/AbstractDesignPattern.csproj",
+      "projectPath": "/Users/ritikdhiman/CreationalDesignPattern/AbstractDesignPattern/AbstractDesignPattern.csproj",
       "packagesPath": "/Users/ritikdhiman/.nuget/packages/",
-      "outputPath": "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/AbstractDesignPattern/obj/",
+      "outputPath": "/Users/ritikdhiman/CreationalDesignPattern/AbstractDesignPattern/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ritikdhiman/.nuget/NuGet/NuGet.Config"

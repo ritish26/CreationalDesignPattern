@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/SingleResponsibilityDesignPattern/SingleResponsibilityDesignPattern.csproj": {}
+    "/Users/ritikdhiman/CreationalDesignPattern/SingleResponsibilityDesignPattern/SingleResponsibilityDesignPattern.csproj": {}
   },
   "projects": {
-    "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/SingleResponsibilityDesignPattern/SingleResponsibilityDesignPattern.csproj": {
+    "/Users/ritikdhiman/CreationalDesignPattern/SingleResponsibilityDesignPattern/SingleResponsibilityDesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/SingleResponsibilityDesignPattern/SingleResponsibilityDesignPattern.csproj",
+        "projectUniqueName": "/Users/ritikdhiman/CreationalDesignPattern/SingleResponsibilityDesignPattern/SingleResponsibilityDesignPattern.csproj",
         "projectName": "SingleResponsibilityDesignPattern",
-        "projectPath": "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/SingleResponsibilityDesignPattern/SingleResponsibilityDesignPattern.csproj",
+        "projectPath": "/Users/ritikdhiman/CreationalDesignPattern/SingleResponsibilityDesignPattern/SingleResponsibilityDesignPattern.csproj",
         "packagesPath": "/Users/ritikdhiman/.nuget/packages/",
-        "outputPath": "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/SingleResponsibilityDesignPattern/obj/",
+        "outputPath": "/Users/ritikdhiman/CreationalDesignPattern/SingleResponsibilityDesignPattern/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ritikdhiman/.nuget/NuGet/NuGet.Config"

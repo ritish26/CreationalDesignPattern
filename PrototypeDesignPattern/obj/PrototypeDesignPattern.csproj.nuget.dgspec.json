@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/PrototypeDesignPattern/PrototypeDesignPattern.csproj": {}
+    "/Users/ritikdhiman/CreationalDesignPattern/PrototypeDesignPattern/PrototypeDesignPattern.csproj": {}
   },
   "projects": {
-    "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/PrototypeDesignPattern/PrototypeDesignPattern.csproj": {
+    "/Users/ritikdhiman/CreationalDesignPattern/PrototypeDesignPattern/PrototypeDesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/PrototypeDesignPattern/PrototypeDesignPattern.csproj",
+        "projectUniqueName": "/Users/ritikdhiman/CreationalDesignPattern/PrototypeDesignPattern/PrototypeDesignPattern.csproj",
         "projectName": "PrototypeDesignPattern",
-        "projectPath": "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/PrototypeDesignPattern/PrototypeDesignPattern.csproj",
+        "projectPath": "/Users/ritikdhiman/CreationalDesignPattern/PrototypeDesignPattern/PrototypeDesignPattern.csproj",
         "packagesPath": "/Users/ritikdhiman/.nuget/packages/",
-        "outputPath": "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/PrototypeDesignPattern/obj/",
+        "outputPath": "/Users/ritikdhiman/CreationalDesignPattern/PrototypeDesignPattern/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ritikdhiman/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/BuilderDesignPattern/BuilderDesignPattern.csproj",
+      "projectUniqueName": "/Users/ritikdhiman/CreationalDesignPattern/BuilderDesignPattern/BuilderDesignPattern.csproj",
       "projectName": "BuilderDesignPattern",
-      "projectPath": "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/BuilderDesignPattern/BuilderDesignPattern.csproj",
+      "projectPath": "/Users/ritikdhiman/CreationalDesignPattern/BuilderDesignPattern/BuilderDesignPattern.csproj",
       "packagesPath": "/Users/ritikdhiman/.nuget/packages/",
-      "outputPath": "/Users/ritikdhiman/Desktop/Code/DesignPatterns/CreationalDesignPattern/BuilderDesignPattern/obj/",
+      "outputPath": "/Users/ritikdhiman/CreationalDesignPattern/BuilderDesignPattern/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ritikdhiman/.nuget/NuGet/NuGet.Config"
