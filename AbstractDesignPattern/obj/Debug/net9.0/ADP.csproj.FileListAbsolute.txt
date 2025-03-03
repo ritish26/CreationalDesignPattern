@@ -1,0 +1,14 @@
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/ADP/bin/Debug/net9.0/ADP
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/ADP/bin/Debug/net9.0/ADP.deps.json
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/ADP/bin/Debug/net9.0/ADP.runtimeconfig.json
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/ADP/bin/Debug/net9.0/ADP.dll
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/ADP/bin/Debug/net9.0/ADP.pdb
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/ADP/obj/Debug/net9.0/ADP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/ADP/obj/Debug/net9.0/ADP.AssemblyInfoInputs.cache
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/ADP/obj/Debug/net9.0/ADP.AssemblyInfo.cs
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/ADP/obj/Debug/net9.0/ADP.csproj.CoreCompileInputs.cache
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/ADP/obj/Debug/net9.0/ADP.dll
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/ADP/obj/Debug/net9.0/refint/ADP.dll
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/ADP/obj/Debug/net9.0/ADP.pdb
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/ADP/obj/Debug/net9.0/ADP.genruntimeconfig.cache
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/ADP/obj/Debug/net9.0/ref/ADP.dll

@@ -1,0 +1,14 @@
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/SRP/obj/Debug/net9.0/SRP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/SRP/obj/Debug/net9.0/SRP.AssemblyInfoInputs.cache
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/SRP/obj/Debug/net9.0/SRP.AssemblyInfo.cs
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/SRP/obj/Debug/net9.0/SRP.csproj.CoreCompileInputs.cache
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/SRP/bin/Debug/net9.0/SRP
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/SRP/bin/Debug/net9.0/SRP.deps.json
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/SRP/bin/Debug/net9.0/SRP.runtimeconfig.json
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/SRP/bin/Debug/net9.0/SRP.dll
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/SRP/bin/Debug/net9.0/SRP.pdb
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/SRP/obj/Debug/net9.0/SRP.dll
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/SRP/obj/Debug/net9.0/refint/SRP.dll
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/SRP/obj/Debug/net9.0/SRP.pdb
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/SRP/obj/Debug/net9.0/SRP.genruntimeconfig.cache
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/SRP/obj/Debug/net9.0/ref/SRP.dll

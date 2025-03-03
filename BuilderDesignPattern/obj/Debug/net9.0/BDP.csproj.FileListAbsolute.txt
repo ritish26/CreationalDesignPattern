@@ -1,0 +1,14 @@
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/BDP/bin/Debug/net9.0/BDP
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/BDP/bin/Debug/net9.0/BDP.deps.json
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/BDP/bin/Debug/net9.0/BDP.runtimeconfig.json
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/BDP/bin/Debug/net9.0/BDP.dll
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/BDP/bin/Debug/net9.0/BDP.pdb
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/BDP/obj/Debug/net9.0/BDP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/BDP/obj/Debug/net9.0/BDP.AssemblyInfoInputs.cache
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/BDP/obj/Debug/net9.0/BDP.AssemblyInfo.cs
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/BDP/obj/Debug/net9.0/BDP.csproj.CoreCompileInputs.cache
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/BDP/obj/Debug/net9.0/BDP.dll
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/BDP/obj/Debug/net9.0/refint/BDP.dll
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/BDP/obj/Debug/net9.0/BDP.pdb
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/BDP/obj/Debug/net9.0/BDP.genruntimeconfig.cache
+/Users/ritikdhiman/Desktop/Code/LowLevelDesign/BDP/obj/Debug/net9.0/ref/BDP.dll
