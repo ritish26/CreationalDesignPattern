@@ -5,16 +5,15 @@ public class Meal
 {
     public Meal(MealBuilder mealBuilder)
     {
-        this.Dessert = mealBuilder.Dessert;
-        this.MainDish = mealBuilder.MainDish;
-        this.Drink = mealBuilder.Drink;
-        this.SideDish = mealBuilder.SideDish;
+        Dessert = mealBuilder.Dessert;
+        MainDish = mealBuilder.MainDish;
+        Drink = mealBuilder.Drink;
+        SideDish = mealBuilder.SideDish;
     }
-
-    public string MainDish { get; set; }
-    public string SideDish { get; set; }
-    public string Dessert { get; set; }
-    public string Drink { get; set; }
+    private string? MainDish { get; set; }
+    private string? SideDish { get; set; }
+    private string? Dessert { get; set; }
+    private string? Drink { get; set; }
 
     public override string ToString()
     {

@@ -7,6 +7,9 @@ using PDP;
 /// documents (e.g., invoices, reports). These templates need to be duplicated multiple times with slight
 /// modifications (We can change one property). How would you efficiently implement this feature?
 
+/// The Prototype design pattern is a creation-al pattern that allows creating new objects by copying existing ones,
+/// rather than constructing them from scratch. 
+
 #region MainProgram
 public class Program
 {
