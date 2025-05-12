@@ -27,7 +27,10 @@
   
   <img width="1016" alt="image" src="https://github.com/user-attachments/assets/ad570792-e04e-414e-8946-8aee7ea706ae" />
 
-  **Add Scoped/Add Singleton/Add transient**
+
+
+  **Scoped/Singleton/transient-Dependency Injection**
+
   <img width="1078" alt="image" src="https://github.com/user-attachments/assets/9c9e2273-1132-402a-886f-914a24ed8067" />
 
   <img width="1091" alt="image" src="https://github.com/user-attachments/assets/b4923add-34a0-43f8-a1f9-4b265a8e64b4" />
