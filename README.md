@@ -26,5 +26,18 @@
   Avoid adding extra features that are not required in the current scope.
   
   <img width="1016" alt="image" src="https://github.com/user-attachments/assets/ad570792-e04e-414e-8946-8aee7ea706ae" />
+
+  **Add Scoped/Add Singleton/Add transient**
+  <img width="1078" alt="image" src="https://github.com/user-attachments/assets/9c9e2273-1132-402a-886f-914a24ed8067" />
+
+  <img width="1091" alt="image" src="https://github.com/user-attachments/assets/b4923add-34a0-43f8-a1f9-4b265a8e64b4" />
+
+  <img width="1150" alt="image" src="https://github.com/user-attachments/assets/07462a64-01c5-4a1c-9807-567a013eb132" />
+  
+  <img width="1100" alt="image" src="https://github.com/user-attachments/assets/be025817-1604-49cf-8d74-5c42fa4156a8" />
+  
+
+
+
   
 
